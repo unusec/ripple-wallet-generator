@@ -3,6 +3,8 @@
 After reading multiple posts on reddit like [this](https://www.reddit.com/r/Ripple/comments/7oif57/warning_brutal_scam_guy_buys_a_ledger_nano_wallet/), people purchasing expensive Crypto Wallet tools and got scammed loosing a lot of cash, decided to create this FREE simple program to generate a cold storage Ripple wallet, using the official API made available by Ripple. 
 This code can be run **offline**.
 
+ If you find instructions below hard, I wraped all the code in a [Electron desktop application](https://github.com/unusec/ripple-wallet-generator-app) that you can download for [Windows](https://github.com/unusec/ripple-wallet-generator-app/releases/download/1.0.0.0/ripple-wallet-generator-win.zip) - [Mac](https://github.com/unusec/ripple-wallet-generator-app/releases/download/1.0.0.1/ripple-wallet-generator-mac.zip).
+
 
 ## Getting Started
 
