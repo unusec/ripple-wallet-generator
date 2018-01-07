@@ -1,6 +1,6 @@
 # Ripple-Wallet-Generator
 
-After reading multiple posts or reddit like [this](https://www.reddit.com/r/Ripple/comments/7oif57/warning_brutal_scam_guy_buys_a_ledger_nano_wallet/), people purcasing expensive Crypto Wallet tools and got scammed loosing a lot of cash, decided to create this FREE simple program to generate a cold storage Ripple wallet, using the official API made available by Ripple. 
+After reading multiple posts on reddit like [this](https://www.reddit.com/r/Ripple/comments/7oif57/warning_brutal_scam_guy_buys_a_ledger_nano_wallet/), people purchasing expensive Crypto Wallet tools and got scammed loosing a lot of cash, decided to create this FREE simple program to generate a cold storage Ripple wallet, using the official API made available by Ripple. 
 This code can be run **offline**.
 
 
