@@ -1,0 +1,21 @@
+{
+  "name": "ripple-wallet-generator",
+  "version": "1.0.0",
+  "description": "A simple cold storage wallet generator, using the official API made available by Ripple. This code can be run offline.",
+  "main": "wallet.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ripple",
+    "cold",
+    "storage",
+    "wallet",
+    "generator"
+  ],
+  "author": "UnuSec",
+  "license": "ISC",
+  "dependencies": {
+    "ripple-lib": "^0.17.9"
+  }
+}
